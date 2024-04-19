@@ -19,3 +19,15 @@
 
 # Go workspace file
 go.work
+agauto
+compile.sh
+
+mapping.txt
+addrewrites.sh
+removerewrites.sh
+./bin/*
+domains.txt
+bin/agauto.darwin
+bin/agauto.darwin.tar.gz
+bin/agauto.exe.tar.gz
+bin/agauto.tar.gz
