@@ -35,7 +35,7 @@ Download the binary.
 Example
 
 ```bash
-./dns-rewrite-tool --add --url http://example.com/control --username admin --password secret --domain example.com --value 192.168.1.1
+./agauto --add --url http://example.com/control --username admin --password secret --domain example.com --value 192.168.1.1
 
 ```
 
